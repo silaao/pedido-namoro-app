@@ -2,7 +2,7 @@ Pedido Namoro ❤️
 
 Um aplicativo divertido feito com Kotlin Compose Desktop que faz um pedido especial de namoro. Quando o usuário tenta clicar em "Não", o botão foge da tela, tornando impossível recusar.
 
-Funcionalidades
+Funcionalidades:
 
 Tela principal com a pergunta: "Quer namorar comigo?" Botão Sim: confirma o pedido e mostra uma mensagem de confirmação. Botão Não: "foge" aleatoriamente da tela quando o mouse se aproxima. Interface simples e colorida, usando Material Design.
 
