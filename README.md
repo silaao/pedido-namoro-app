@@ -10,7 +10,7 @@ Tecnologias usadas:
 
 Kotlin Jetpack Compose Desktop Material Design para Compose
 
-![Preview da aplicação](https://i.imgur.com/3ryUKEF.png)
+![Preview da aplicação](https://i.imgur.com/4Pf7K4a.png)
 
 Como rodar;
 
